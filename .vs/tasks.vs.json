@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "задача-Logo",
+      "appliesTo": "TourProject/resources/Logo.jpg",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "задача-Logo",
+      "appliesTo": "TourProject/Resources/Logo.png",
+      "type": "launch"
+    }
+  ]
+}
